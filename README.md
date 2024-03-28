@@ -37,4 +37,4 @@ Author --->  ADHITHYAN VV<br>
 <br>| parseInt:<br>
       Method used to parse the string argument as a signed decimal integer.
 <br>| parseFloat:<br>
-      Method used to parse the string argument as a float.
+      Method used to parse the string argument as a float
